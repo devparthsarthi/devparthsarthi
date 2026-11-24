@@ -6,11 +6,6 @@ Computer Science and Engineering student at ITM University, Gwalior. I enjoy bui
 
 I am a student developer interested in software development, data structures and algorithms, and AI/ML. I learn by building projects and experimenting with different technologies.
 
-## What I'm Currently Working On
-
-- Improving my Java development and Data Structures & Algorithms skills through practical projects.
-- Developing **PacMan**, a Java-based game with pathfinding and different ghost behaviours.
-- Exploring anomaly detection and machine learning through **SkyGuard AI**, a weather-station sensor monitoring project.
 
 ## Tools I Use
 
@@ -25,3 +20,4 @@ I am a student developer interested in software development, data structures and
 ## How to Reach Me
 
 - **GitHub:** [github.com/devparthsarthi](https://github.com/devparthsarthi)
+- **LinkedIn:** [linkedin.com/parthsarthi-sharma](https://www.linkedin.com/in/parthsarthi-sharma-0b7552306/)
